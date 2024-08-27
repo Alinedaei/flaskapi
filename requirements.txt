@@ -1,0 +1,5 @@
+flask==2.3.2
+flask-restful==0.3.9
+redis==4.6.0
+kafka-python==2.0.2
+
